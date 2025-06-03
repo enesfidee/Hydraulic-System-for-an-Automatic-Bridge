@@ -8,7 +8,7 @@ Design and control a hydraulic system that operates an automated bridge. The sys
 •	Length (L): 20 meters (each side, total span = 40 meters)
 •	Width (W): 8 meters
 •	Thickness (t): 0.4 meters
-•	Density of Steel (ρ): 7850 kg/m³
+•	Density of Steel (ρ) : 7850 kg/m³
 
   # Weight Calculation
     1.Each bridge side dimensions:
